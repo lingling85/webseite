@@ -24,6 +24,10 @@ a:hover{
 a.highlighter{
 	#background:rgba(0, 0, 0, 0.5);
 	padding:2px;
+	color:#fff;
+}
+a.navibarbutton{
+	color:#fff;
 }
 
 #navibar{

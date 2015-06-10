@@ -1,6 +1,6 @@
 /*Seiteneigenschaften*/
 body{
-	background-color:#444;
+	background-color:#e6e6e6;
 	padding-left:30px;
 	padding-right:30px;
 	margin-left:auto;
@@ -76,12 +76,13 @@ a.highlighter{
 }
 h2{
 	background-repeat:no-repeat;
+	background:#db0166 !important;
 	color:white;
 	padding:5px;
 	margin-left:-10px;
 	margin-right:-10px;
 	margin-bottom:10px;
-	height:100px;
+	height:40px;
 	line-height:1.5em
 }
 .timestamp{

@@ -34,7 +34,7 @@
 	"navibar":[
 		{
 			"icon":"",
-			"name":"<img src='gfx/cc_header.png' style='margin-top:-30px !important'>",
+			"name":"Home",
 			"url":"index.php"
 		},
 		{

@@ -26,7 +26,7 @@ a.highlighter{
 	padding:2px;
 	color:#fff;
 }
-a.navibarbutton{
+.navibarbutton > a{
 	color:#fff;
 }
 
@@ -49,7 +49,7 @@ a.navibarbutton{
 .navibarbutton{
 	float:left;
 	margin-left:15px;
-	margin-top:30px;
+	margin-top:10px;
 	font-size:28px;
 	background-color: rgba(0, 0, 0, 0.5);
 	padding:3px;

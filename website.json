@@ -1,14 +1,14 @@
 {
 	"settings":{
-		"title":"chaos-consulting",
-		"url":"http://www.chaos-consulting.de",
-		"footer":"(ccc) Chaos Consulting"
+		"title":"Freifunk Märkischer Kreis",
+		"url":"http://www.freifunk-mk.de",
+		"footer":"Freifunk Märkischer Kreis"
 	},
 	"contacts":[
 		{
 			"icon":"envelope-o",
-			"name":"info@chaos-consulting",
-			"url":"mailto:info@chaos-consulting"
+			"name":"info@freifunk-mk.de",
+			"url":"mailto:info@freifunk-mk.de"
 		},
 		{
 			"icon":"phone",
@@ -17,28 +17,18 @@
 		},
 		{
 			"icon":"comments-o",
-			"name":"#chaosconsulting @freenode.net",
-			"url":"https://webchat.freenode.net/?randomnick=1&channels=%23chaosconsulting&uio=d4"
+			"name":"#ffmk@freenode.net",
+			"url":"https://webchat.freenode.net/?randomnick=1&channels=%23ffmk&uio=d4"
 		},
 		{
-			"icon":"comments-o",
-			"name":"c2is@conference.jabber.chaos-consulting.de",
-			"url":"xmpp://c2is@conference.jabber.chaos-consulting.de"
-		},
-		{
-			"icon":"calendar",
-			"name":"Termine Abbonieren (.ical)",
-			"url":"http://chaos-consulting.de/feeds/ical"
-		},
-		{
-			"icon":"rss",
-			"name":"Termine Abbonieren (.rss)",
-			"url":"http://chaos-consulting.de/feeds/rss"
+			"icon":"facebook",
+			"name":"Freifunk Iserlohn auf Facebook",
+			"url":"https://www.facebook.com/freifunkiserlohn"
 		},
 		{
 			"icon":"github",
 			"name":"Github",
-			"url":"https://github.com/jjx-/chaos-consulting"
+			"url":"https://github.com/freifunk-mk/"
 		}
 	],
 	"navibar":[
@@ -71,9 +61,9 @@
 	"c0":[
 		{
 			"icon":"",
-			"headline":"Willkommen bei Chaos Consulting e.V. (i.G.)",
+			"headline":"Willkommen bei Freifunk im Märkischen Kreis",
 			"image":"amp.png",
-			"content":"Als lokaler Chaostreff bieten wir unseren Mitgliedern in Iserlohn die M&ouml;glichkeit sich &uuml;ber Technik und andere Themen auszutauschen, gemeinsam an Projekten zu arbeiten und Vortr&auml;ge zu halten. Wir m&ouml;chten allen Menschen und vorallem Jugendlichen kostenlos technisches Wissen vermitteln und zum Selber machen anregen.<br> Muss ich den defekten Laptop wirklich wegwerfen oder kann man damit noch was machen? Wie sichere ich meinen PC ab? Was tun wenn der Strom ausf&auml;llt? das und vieles mehr sind Fragen f&uuml;r die wir gemeinsam L&ouml;sungen erarbeiten.<br> Technik verstehen und selber basteln statt nur Konsumieren...<br><br>...das ist unser Ziel!"
+			"content":"Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<br><br>Jeder kann mitmachen!"
 		}
 	],
 	"contribute":[

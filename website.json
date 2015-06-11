@@ -48,7 +48,7 @@
 			"icon":"",
 			"headline":"Willkommen bei Freifunk im Märkischen Kreis",
 			"image":"amp.png",
-			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<br><br><div style='text-align:center'><b>Jeder kann mitmachen!</b></div><br>"
+			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<br><br><div style='text-align:center'><b>Jeder kann mitmachen!</b></div><br><br><br><br><br><br><br><br>"
 		}
 	],
 	"contribute":[
@@ -78,7 +78,7 @@
 			"icon":"globe",
 			"headline":"Unser Netz",
 			"image":"",
-			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt."
+			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><iframe src='map/leafmap.php' width='100%' height='250px' frameborder='0'></iframe>"
 		},
 		{
 			"icon":"heart",

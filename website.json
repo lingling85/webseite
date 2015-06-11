@@ -74,16 +74,8 @@
 	],
 	"communities":[
 		{
-			"name":"",
-			"prefix":"",
-			"images":[
-				"stable":[
-					{
-						"factory":"",
-						"sysupgrade":""
-					}
-				]
-			]
+			"name":"Iserlohn",
+			"prefix":"FF-Is-",
 		}
 	],
 	"projekte":[

@@ -48,15 +48,15 @@
 			"icon":"",
 			"headline":"Willkommen bei Freifunk im Märkischen Kreis",
 			"image":"amp.png",
-			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<br>Jeder kann mitmachen!<br><br><div style='text-align:center'><b>Unterstützt durch:</b><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png'></a><br></div>"
+			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<div style='text-align:center'><b>Jeder kann mitmachen!<b></div>Mit einem entsprechenden WLAN Routern auf der Fensterbank der sich mit den benachbarten Geräten vernetzt wächst das Netz Stück für Stück.<br><div style='text-align:center'><b>Unterstützt durch:</b><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png'></a><br></div>"
 		}
 	],
 	"contribute":[
 		{
 			"icon":"",
-			"headline":"Willkommen bei Chaos Consulting e.V. (i.G.)",
+			"headline":"Mitmachen",
 			"image":"amp.png",
-			"content":"Als lokaler Chaostreff bieten wir unseren Mitgliedern in Iserlohn die M&ouml;glichkeit sich &uuml;ber Technik und andere Themen auszutauschen, gemeinsam an Projekten zu arbeiten und Vortr&auml;ge zu halten. Wir treffen uns immer am zweiten Samstag im Monat, sofern dies kein gesetzlicher Feiertag in NRW ist. Los geht es um 15 Uhr, ab 16 Uhr gibt es einen Vortrag zu einem bestimmten Thema zu h&oumlren. Komm einfach mal vorbei."
+			"content":""
 		}
 	],
 	"contact":[
@@ -70,21 +70,21 @@
 	"projekte":[
 		{
 			"icon":"wifi",
-			"headline":"Freifunk",
-			"image":"freifunk.png",
-			"content":"Zusammen mit den Freifunkern vom Freifunk Rheinland e.V. bauen wir ein freies B&uuml;rgerdatennetz im M&auml;rkischen Kreis auf. Mit entsprechenden WLAN Routern auf der Fensterbank kann jeder den Netzausbau unterst&uuml;tzen. Weitere Informationen &uuml;ber den Ausbau des Freifunk Netzwerks in der Region finden Sie auf den folgenden Seiten:<br><br><a href='http://www.freifunk-iserlohn.de'>freifunk-iserlohn.de</a><br><a href='http://www.freifunk-altena.de'>freifunk-altena.de</a><br><a href='http://www.freifunk-meinerzhagen.de'>freifunk-meinerzhagen.de</a>"
+			"headline":"Das ist Freifunk",
+			"image":"",
+			"content":"<div class="vvid"><iframe src='//player.vimeo.com/video/64814620?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0166' width='100%' height='100%' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>"
 		},
 		{
-			"icon":"",
-			"headline":"Cryptoparty",
-			"image":"update.png",
-			"content":"Auf einer Cryptoparty geht es um Verschl&uumlsselung in allen Varianten. Ganz egal ob Webseiten, Emails, Chats oder gleich die Festplatte verschl&uumlsselt werden soll, wir zeigen wie es geht.<br>Die erste Iserlohner Cryptoparty fand am 14. M&aumlrz 2015 bei Chaos Consulting statt, wir werden in loser Folge immer wieder Cyrptoparties veranstalten. Wenn du Interesse hast, dann melde die doch einfach bei uns per Mail, per IRC oder komm zu einem unserer Treffen vorbei."
+			"icon":"globe",
+			"headline":"Unser Netz",
+			"image":"",
+			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt."
 		},
 		{
-			"icon":"",
-			"headline":"Dein Projekt",
-			"image":"led.png",
-			"content":"Du hast DIE Idee, dann komm doch einfach mal bei uns vorbei, denn zusammen basteln macht viel mehr Spa&szlig."
+			"icon":"heart",
+			"headline":"Unterstütze uns",
+			"image":"",
+			"content":"Wenn dir die Idee von Freifunk gefällt, dann erzähl deinen Freunden davon und stell einen Router bei dir auf.<br>Die Technik hinter Freifunk kostet uns Monatlich Geld, nur so können wir sicher stellen, dass du immer schnell surfen kannst und keine Sorge haben musst wenn du deinen Internetanschluss über Freifunk mit anderen teilst.<br>Wir würden uns sehr freuen wenn du den Betrieb der Freifunk Server mit einer kleinen Spende unterstützt."
 		}
 	],
 	"termine":[

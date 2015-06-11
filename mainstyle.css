@@ -64,7 +64,7 @@ a:hover > .fa{
 }
 .splitbox{
 	flex:1;
-	margin-top:20px;
+	#margin-top:20px;
 }
 .rightbar{
 	flex:1;
@@ -96,10 +96,10 @@ h2{
 	line-height:1.5em
 }
 .timestamp{
-	float:right;
-	margin-top:-48px;
+	float:left;
+	margin:5px;
 	background-color:rgba(0, 0, 0, 0.5);
-	margin-right:-5px;
+	#margin-right:-5px;
 	font-size:20px;
 	color:#fff;
 }

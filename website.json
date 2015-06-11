@@ -74,6 +74,10 @@
 	],
 	"communities":[
 		{
+			"name":"Altena",
+			"prefix":"FF-AL-"
+		},
+		{
 			"name":"Iserlohn",
 			"prefix":"FF-Is-"
 		}

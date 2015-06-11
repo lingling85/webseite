@@ -75,11 +75,23 @@
 	"communities":[
 		{
 			"name":"Altena",
-			"prefix":"FF-AL-"
+			"prefix":"FF-AL-",
+			"fwprefix":"gluon-ffrg-0.61-"
+		},
+		{
+			"name":"Hemer",
+			"prefix":"FF-HE-",
+			"fwprefix":"gluon-ffrg-0.61-"
 		},
 		{
 			"name":"Iserlohn",
-			"prefix":"FF-Is-"
+			"prefix":"FF-Is-",
+			"fwprefix":"gluon-ffrg-0.6-"
+		},
+		{
+			"name":"Meinerzhagen",
+			"prefix":"FF-MZ-",
+			"fwprefix":"gluon-ffrg-0.61-"
 		}
 	],
 	"router":[

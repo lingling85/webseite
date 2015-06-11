@@ -91,17 +91,15 @@
 			"headline":"Unsere Unterstützer",
 			"image":"",
 			"content":"<div style='text-align:center'><b>Hier kannst du sehen wer Freifunk in unserer Region unterstützt:</b><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png'></a><br></div>"
-		},
-		
+		}
 	],
 	"termine":[
 		{
-			"icon":"user-plus",
-			"headline":"Chaostreff",
-			"date":"20150613",
-			"time":"1500",
+			"icon":"wifi",
+			"headline":"Bücherei Letmathe Versorgt",
+			"date":"20150610",
 			"image":"cal.png",
-			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+			"content":"Es stand zwar schon in der Zeitung jetzt auch noch hier, Haus Letmathe hat zu den Öffnungszeiten der Stadtbücherei Freifunk."
 		}
 	],
 	"mehr":[

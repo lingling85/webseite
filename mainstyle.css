@@ -29,6 +29,9 @@ a.highlighter{
 .navibarbutton > a{
 	color:#fff;
 }
+a > .fa:hover{
+	color:#db0166;
+}
 
 #navibar{
 	position:fixed;

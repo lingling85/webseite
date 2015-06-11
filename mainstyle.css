@@ -29,7 +29,7 @@ a.highlighter{
 .navibarbutton > a{
 	color:#fff;
 }
-a > .fa:hover{
+a:hover > .fa{
 	color:#db0166;
 }
 

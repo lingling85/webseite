@@ -74,22 +74,22 @@
 	],
 	"communities":[
 		{
-			"name":"Altena",
+			"name":"altena",
 			"prefix":"FF-AL-",
 			"fwprefix":"gluon-ffrg-0.61-"
 		},
 		{
-			"name":"Hemer",
+			"name":"hemer",
 			"prefix":"FF-HE-",
 			"fwprefix":"gluon-ffrg-0.61-"
 		},
 		{
-			"name":"Iserlohn",
+			"name":"iserlohn",
 			"prefix":"FF-Is-",
 			"fwprefix":"gluon-ffrg-0.6-"
 		},
 		{
-			"name":"Meinerzhagen",
+			"name":"meinerzhagen",
 			"prefix":"FF-MZ-",
 			"fwprefix":"gluon-ffrg-0.61-"
 		}

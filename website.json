@@ -74,12 +74,7 @@
 			"image":"",
 			"content":"<div class='vvid' style='height:300px'><iframe src='//player.vimeo.com/video/64814620?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0166' width='100%' height='100%' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>"
 		},
-		{
-			"icon":"globe",
-			"headline":"",
-			"image":"",
-			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><iframe src='map/leafmap.php' width='100%' height='250px' frameborder='0'></iframe>"
-		},
+		
 		{
 			"icon":"heart",
 			"headline":"Unterstütze uns",
@@ -91,6 +86,12 @@
 			"headline":"Unsere Unterstützer",
 			"image":"",
 			"content":"<div style='text-align:center'><b>Hier kannst du sehen wer Freifunk in unserer Region unterstützt:</b><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png'></a><br></div>"
+		},
+		{
+			"icon":"globe",
+			"headline":"",
+			"image":"",
+			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><iframe src='map/leafmap.php' width='100%' height='250px' frameborder='0'></iframe>"
 		}
 	],
 	"termine":[

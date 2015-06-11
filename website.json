@@ -95,56 +95,6 @@
 			"time":"1500",
 			"image":"cal.png",
 			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		},
-		{
-			"icon":"male",
-			"headline":"Social Engineering",
-			"date":"20150613",
-			"time":"1600",
-			"image":"cal.png",
-			"content":"Ein spannender Vortrag &uuml;ber die Sicherheitsl&uuml;cke Mensch. Bekannt geworden durch Kevin Mitnick gibt es den Bereich des Social Engineering schon viel l&aumlnger. Dieser Vortrag soll einen &Uumlberblick &uumlber die verschiedenen Methoden geben, denn nur wer die Techniken der Angreifer kennt kann sich erfolgreich sch&uumltzen."
-		},
-		{
-			"icon":"user-plus",
-			"headline":"Chaostreff",
-			"date":"20150711",
-			"time":"1500",
-			"image":"cal.png",
-			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		},
-		{
-			"icon":"linux",
-			"headline":"Workshop Kali Linux",
-			"date":"20150711",
-			"time":"1600",
-			"image":"update.png",
-			"content":"Erster Teil unserer Workshop Reihe zu Kali Linux. In diesem Teil zeigen wir wie Kali vom USB Stick l&aumluft und wie das System aufgebaut ist. Anschlie&szligend zeigen wir die wichtigsten Befehle um sich in einem Netzwerk zurecht zu finden, Fehler zu lokalisieren und Sicherheitsl&uumlcken aufzusp&uumlren."
-		},
-		{
-			"icon":"user-plus",
-			"headline":"Chaostreff",
-			"date":"20150808",
-			"time":"1500",
-			"image":"cal.png",
-			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		}
-	],
-	"history":[
-		{
-			"icon":"",
-			"headline":"Er&oumlffnungsgrillen",
-			"date":"20150530",
-			"time":"1500",
-			"image":"fire.png",
-			"content":"Der Iserlohner Chaostreff l&aumldt seine Mitglieder und benachbarte Chaostreffs zu einem gem&uumltlichen Grillnachmitag mit W&uumlrstchen, Mate und jeder Menge Gespr&aumlche ein. Los geht es am Samstag den 30. Mai um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a><br>Wir m&oumlchten Euch um eine kurze Voranmeldung per Mail an info@chaos-consulting.de bitten, damit wir besser planen k&oumlnnen."
-		},
-		{
-			"icon":"",
-			"headline":"Lost Places - der Reiz des Vergessenen",
-			"date":"20150411",
-			"time":"1600",
-			"image":"lp.png",
-			"content":"Es gibt sie &uumlberall, die Rede ist von vergessenen Orten aus l&aumlngst vergangenen Zeiten. Alte Bahnstrecken, leerstehende Fabriken, verlassene Wohnh&aumluser oder Relikte aus beinahe 3 Weltkriegen. Menschen entdecken diese Orte und halten ihre besondere Atmosph&aumlre mit der Kamera fest immer getreu den Motto 'Take nothing but pictures, leave nothing but footprints'."
 		}
 	],
 	"mehr":[
@@ -159,7 +109,7 @@
 			"icon":"bar-chart",
 			"headline":"Status",
 			"image":"led.png",
-			"content":"!!raumstatus<br><br>!!freifunk"
+			"content":"!!freifunk"
 		},
 		{
 			"icon":"link",

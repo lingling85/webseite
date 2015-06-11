@@ -48,7 +48,7 @@
 			"icon":"",
 			"headline":"Willkommen bei Freifunk im Märkischen Kreis",
 			"image":"amp.png",
-			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<div style='text-align:center'><b>Jeder kann mitmachen!<b></div>Mit einem entsprechenden WLAN Routern auf der Fensterbank der sich mit den benachbarten Geräten vernetzt wächst das Netz Stück für Stück.<br><div style='text-align:center'><b>Unterstützt durch:</b><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png'></a><br></div>"
+			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<br><br><div style='text-align:center'><b>Jeder kann mitmachen!</b></div><br>"
 		}
 	],
 	"contribute":[
@@ -72,7 +72,7 @@
 			"icon":"wifi",
 			"headline":"Das ist Freifunk",
 			"image":"",
-			"content":"<div class='vvid'><iframe src='//player.vimeo.com/video/64814620?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0166' width='100%' height='100%' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>"
+			"content":"<div class='vvid' style='height:300px'><iframe src='//player.vimeo.com/video/64814620?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0166' width='100%' height='100%' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>"
 		},
 		{
 			"icon":"globe",
@@ -85,7 +85,14 @@
 			"headline":"Unterstütze uns",
 			"image":"",
 			"content":"Wenn dir die Idee von Freifunk gefällt, dann erzähl deinen Freunden davon und stell einen Router bei dir auf.<br>Die Technik hinter Freifunk kostet uns Monatlich Geld, nur so können wir sicher stellen, dass du immer schnell surfen kannst und keine Sorge haben musst wenn du deinen Internetanschluss über Freifunk mit anderen teilst.<br>Wir würden uns sehr freuen wenn du den Betrieb der Freifunk Server mit einer kleinen Spende unterstützt."
-		}
+		},
+		{
+			"icon":"globe",
+			"headline":"Unsere Unterstützer",
+			"image":"",
+			"content":"<div style='text-align:center'><b>Hier kannst du sehen wer Freifunk in unserer Region unterstützt:</b><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png'></a><br></div>"
+		},
+		
 	],
 	"termine":[
 		{

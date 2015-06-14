@@ -26,6 +26,11 @@
 			"url":"https://www.facebook.com/freifunkiserlohn"
 		},
 		{
+			"icon":"facebook",
+			"name":"Freifunk Meinerzhagen auf Facebook",
+			"url":"https://www.facebook.com/freifunkkimz"
+		},
+		{
 			"icon":"github",
 			"name":"Github",
 			"url":"https://github.com/freifunk-mk/"
